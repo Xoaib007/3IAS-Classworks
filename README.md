@@ -1,6 +1,6 @@
 # 3IAS-Classworks
 
-Thinks to study:
-[] stack
-[] printf method
-[] BufferReader
+Thinks to study: <br/>
+[ ] stack <br/>
+[ ] printf method <br/>
+[ ] BufferReader <br/>
