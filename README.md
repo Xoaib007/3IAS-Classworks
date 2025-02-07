@@ -5,3 +5,4 @@ Thinks to study: <br/>
 [ ] printf method <br/>
 [ ] BufferReader <br/>
 [ ] ListNode
+[ ] ArrrayList
