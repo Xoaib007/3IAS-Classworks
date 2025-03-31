@@ -45,3 +45,4 @@ public class Main {
         if (mediaGiornata < 2) System.out.println("\nSuggerimento: La media giornaliera è inferiore a 2 ore. Ti consigliamo di studiare di più!");
     }
 }
+
