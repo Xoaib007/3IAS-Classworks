@@ -1,3 +1,18 @@
+/****
+Scrivere un programma JAVA che simula, con un numero casuale, il lancio di 3 monete con testa/croce in
+contemporanea. Il lancio di 3 monete deve essere ripetuto 100 volte.
+Per ogni lancio si registri il risultato in 3 array paralleli denominati MONETA1, MONETA2 e MONETA2.
+Dopo la registrazione dei dati negli array
+1) Comunicare complessivamente quante volte è uscita testa e quante croce
+2) Comunicare in output quante volte sono uscite le diverse combinazioni possibili:
+- 3 teste e 0 croci
+- 2 teste 1 croce
+- 1 testa 2 croci
+- 3 croci
+3) Comunicare quante volte esce in due lanci consecutivi la stessa combinazione esiti del lancio delle tre
+monete.
+(ad esempio, se nel primo lancio escono tre croci e nel secondo lancio escono tre corsi si conta 1)
+***/
 public class Main
 {
 	public static void main(String[] args) {
