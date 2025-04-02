@@ -16,3 +16,4 @@ Scrivere un programma Java che consenta di registrare e analizzare le ore di stu
 - Suggerimento finale: se la media totale è inferiore a 2 ore/giorno, suggerire di studiare di più.
 ### Output dei risultati:
 - Stampare i totali, le medie e i suggerimenti.
+
