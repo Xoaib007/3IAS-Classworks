@@ -1,3 +1,6 @@
+/*
+Esercizio 3: Comunicare quante sono le coppie di lanci uguali, considerando oltre al numero di testa o croce anche la sequenza di uscita
+*/
 import java.util.Arrays;
 
 public class Main {
