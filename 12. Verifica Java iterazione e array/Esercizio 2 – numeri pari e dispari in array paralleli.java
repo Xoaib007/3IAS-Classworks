@@ -1,3 +1,12 @@
+/***
+Scrivere un programma JAVA che scrive in un array parallelo di 100 elementi dei numeri casuali compresi tra
+1 e 100.
+Dopo la registrazione dei dati negli array:
+1) Comunicare complessivamente quante volte è stato registrato nell’array un numero dispari e quante
+un numero pari
+2) Comunicare quante volte un numero presente nella posizione i-esima dell’array risulta divisore della
+posizione i-1 (esempio se nella posizione 1 c’è 7 e nella posizione 2 c’è 49 si conta come divisore)
+***/
 import java.util.*;
 
 public class Main
