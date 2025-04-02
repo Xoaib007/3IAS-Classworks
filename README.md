@@ -12,7 +12,7 @@
 [ ] Binary tree
   
 
-### Codespace terminal commands
+### Codespace terminal commands:
 ```sh
 # Before editing file
 git pull origin main --rebase
