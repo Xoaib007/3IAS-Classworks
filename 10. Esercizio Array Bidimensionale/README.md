@@ -19,3 +19,4 @@ Creare un programma Java che permetta di registrare e analizzare le spese famili
 - Stampare il totale complessivo delle spese per Lunedì e Martedì.
 ### IMPLEMENTANZIONE:
 - Spesa massima e minima per giorno e categoria: Determina la categoria con la spesa più alta e quella con la spesa più bassa.
+
