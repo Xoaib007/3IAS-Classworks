@@ -4,6 +4,11 @@
 [Classroom - Informatica](https://classroom.google.com/c/NzIzNTQyNjk3MDIx)   
 [Classroom - Lab](https://classroom.google.com/c/NzEyOTU4MjgxMTI3)   
 
+### Topics
+- Java
+- HTML
+- CSS
+
 ### Things to study: <br/>
 [ ] stack <br/>
 [ ] BufferReader <br/>
