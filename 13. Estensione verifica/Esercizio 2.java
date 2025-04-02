@@ -1,3 +1,7 @@
+/***
+Esercizio 2: Comunicare quante volte un numero presente nella posizione i-1 - esima dell’array risulta divisore della
+posizione i
+***/
 import java.util.*;
 
 public class Main
