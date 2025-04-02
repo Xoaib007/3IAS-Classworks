@@ -15,3 +15,9 @@ Things to study: <br/>
 [HTML primo esercizio ( Nov 28)](https://onlinegdb.com/H2UqnIcNR)   
 
 
+```
+git pull origin main --rebase
+git add "Folder name"
+git commit -m "Date"
+git push origin main
+```
