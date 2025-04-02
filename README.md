@@ -31,4 +31,9 @@ git push origin main
 Contact: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ullah.shoaib.studente@itispaleocapa.it" target="_blank" rel="noopener noreferrer">📧</a>  
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shoaib@example.com&su=You're%20Awesome!&body=Hi%20Shoaib,%0A%0AI'm%20a%20big%20fan%20of%20you.%20I%20love%20your%20coding,%20you're%20sooooo%20amazing%20omg.%0A%0AI%20want%20to%20gift%20you%20a%20Porsche%20GT3%20RS%20and%20Nissan%20GT-R.%20You%20can%20have%20my%20gf%20too%20if%20you%20want.%0A%0ARegards," target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: blue; font-weight: bold;">Send Email to Shoaib</a>
 
+<button onclick="window.open('https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=shoaib@example.com&su=You\'re%20Awesome!&body=Hi%20Shoaib,%0A%0AI'm%20a%20big%20fan%20of%20you.%20I%20love%20your%20coding,%20you're%20sooooo%20amazing%20omg.%0A%0AI%20want%20to%20gift%20you%20a%20Porsche%20GT3%20RS%20and%20Nissan%20GT-R.%20You%20can%20have%20my%20gf%20too%20if%20you%20want.%0A%0ARegards.', '_blank');" style="text-decoration: none; color: white; background-color: blue; padding: 10px 15px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+    Send Email to Shoaib
+</button>
+
+
 
