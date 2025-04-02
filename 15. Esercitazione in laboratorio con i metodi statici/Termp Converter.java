@@ -1,8 +1,5 @@
 /******************************************************************************
-
 Scrivi un programma in Java dove utilizzi due metodi statici: uno per convertire da Celsius a Fahrenheit e l'altro da Fahrenheit a Celsius
-
-
 *******************************************************************************/
 import java.util.Scanner;
 
