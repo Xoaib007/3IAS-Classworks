@@ -4,10 +4,10 @@
 
 Things to study: <br/>
 [ ] stack <br/>
-[ ] printf method <br/>
 [ ] BufferReader <br/>
 [ ] ListNode <br/>
 [ ] ArrrayList
+[ ] Binary tree
   
 
 ## Codespace terminal commands
