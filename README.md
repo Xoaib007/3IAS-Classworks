@@ -29,3 +29,5 @@ git push origin main
 ```
 
 [Contact: ullah.shoaib.studente@itispaleocapa.it](https://mail.google.com/mail/?view=cm&fs=1&ullah.shoaib.studente@itispaleocapa.it)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&ullah.shoaib.studente@itispaleocapa.it" target="_blank">Open Gmail</a>
+
