@@ -1,3 +1,13 @@
+/****
+Scrivere un programma JAVA che scrive in un array di 100 elementi una sequenza di numeri.
+La sequenza deve essere basata su un numero intero fornito in input che funge da moltiplicatore per le
+posizioni dell’array. L’array deve essere riempito con un dato esito della moltiplicazione:
+
+PosizioneArray x NumeroInput
+Esempio: se il numero in input è 4 l’array dovrà essere riempito con
+0 4 8 12 16 20 ...
+Infine, calcolare e comunicare in output la media di tutti i dati presenti nell’array.
+****/
 import java.util.Scanner;
 
 public class Main
