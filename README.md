@@ -28,5 +28,5 @@ git commit -m "Date"
 git push origin main
 ```
 
-Contact: ullah.shoaib.studente@itispaleocapa.it <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ullah.shoaib.studente@itispaleocapa.it" target="_blank" rel="noopener noreferrer">📧</a>
+Contact: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ullah.shoaib.studente@itispaleocapa.it" target="_blank" rel="noopener noreferrer">📧</a>
 
