@@ -19,7 +19,7 @@
   
 
 ### Codespace terminal commands:
-```sh
+```bash
 # Before editing file
 git pull origin main --rebase
 
