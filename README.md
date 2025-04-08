@@ -4,13 +4,13 @@
 [Classroom - Informatica](https://classroom.google.com/c/NzIzNTQyNjk3MDIx)   
 [Classroom - Lab](https://classroom.google.com/c/NzEyOTU4MjgxMTI3)   
 
-### Topics
+## Topics
 - Java
 - HTML
 - CSS
 - Python (TPSIT)
 
-### Things to study: <br/>
+## Things to study: <br/>
 [ ] stack <br/>
 [ ] BufferReader <br/>
 [ ] ListNode <br/>
@@ -18,7 +18,7 @@
 [ ] Binary tree <br/>
   
 
-### Codespace terminal commands:
+## Codespace terminal commands:
 ```bash
 # Before editing file
 git pull origin main --rebase
