@@ -8,6 +8,7 @@
 - Java
 - HTML
 - CSS
+- Python (TPSIT)
 
 ### Things to study: <br/>
 [ ] stack <br/>
