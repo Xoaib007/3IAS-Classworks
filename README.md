@@ -23,9 +23,14 @@
 # Before editing file
 git pull origin main --rebase
 
-# After editing file
+# After add or editing file
 git add "Folder name"
 git commit -m "Date"
+git push origin main
+
+# If remove file
+git rm path/to/the/file
+git commit -m "Deleted [filename] on [date]"
 git push origin main
 ```
 
