@@ -1,6 +1,12 @@
 # 3IAS-Classworks
 
-[Playground](https://www.onlinegdb.com/myfiles)   
+[Playground](https://www.onlinegdb.com/myfiles)  
+> To compile and run java code on vs code:    
+> ```bash
+> javac MyProgram.java    
+> java MyProgram
+> ```
+
 [Classroom - Informatica](https://classroom.google.com/c/NzIzNTQyNjk3MDIx)   
 [Classroom - Lab](https://classroom.google.com/c/NzEyOTU4MjgxMTI3)   
 
