@@ -22,6 +22,7 @@
 [ ] ListNode <br/>
 [ ] ArrrayList <br/>
 [ ] Binary tree <br/>
+[ ] Buffer type <br/>
   
 
 ## Codespace terminal commands:
